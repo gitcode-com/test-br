@@ -62,5 +62,3 @@ body:
       options:
         - label: 本人已经阅读并同意《鸿蒙 OpenHarmony 用户数据迁移授权协议》
           required: true
-      validations:
-        required: true
