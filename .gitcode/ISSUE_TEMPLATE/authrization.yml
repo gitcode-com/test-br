@@ -1,7 +1,7 @@
 name: 数据迁移授权
 description: 鸿蒙 OpenHarmony 用户数据迁移授权协议
 title: "鸿蒙 OpenHarmony 用户数据迁移授权协议"
-labels: ["授权"]
+labels: ["agreed"]
 assignees: []
 
 body:
@@ -10,13 +10,15 @@ body:
       value: |
         ## 《鸿蒙 OpenHarmony 用户数据迁移授权协议》
 
-        甲方： 鸿蒙 OpenHarmony 
+        ### 甲方
+        
+        鸿蒙 OpenHarmony 
 
   - type: input
     id: user
     attributes:
       label: 乙方
-      placeholder: 请填写你的 GitCode 用户名...
+      placeholder: 请填写你的姓名...
     validations:
       required: true
 
@@ -31,6 +33,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        ##
+
         鸿蒙 OpenHarmony 项目组和用户就用户数据迁移事宜，经友好协商，达成如下协议：
 
         **一、数据迁移目的：甲方为了提升用户体验和数据安全性，需要对用户的个人信息以及与用户相关的项目、问题、拉取请求和代码评审数据等内容进行迁移操作。**
@@ -55,7 +59,7 @@ body:
     id: agreement
     attributes:
       label: 授权声明
-      description: 请阅读并同意上述协议
+      description: 授权声明
       options:
         - label: 本人已经阅读并同意《鸿蒙 OpenHarmony 用户数据迁移授权协议》
           required: true
