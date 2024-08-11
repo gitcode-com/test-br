@@ -59,7 +59,6 @@ body:
     id: agreement
     attributes:
       label: 授权声明
-      description: 授权声明
       options:
         - label: 本人已经阅读并同意《鸿蒙 OpenHarmony 用户数据迁移授权协议》
           required: true
