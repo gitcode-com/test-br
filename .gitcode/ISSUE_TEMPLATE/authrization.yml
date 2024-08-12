@@ -2,7 +2,6 @@ name: 数据迁移授权
 description: 鸿蒙 OpenHarmony 用户数据迁移授权协议
 title: "鸿蒙 OpenHarmony 用户数据迁移授权协议"
 labels: ["agreed"]
-assignees: 
 
 body:
   - type: markdown
