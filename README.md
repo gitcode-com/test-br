@@ -22,7 +22,7 @@
 
 请您在阅读完以上内容后，如同意授权协议，请于公告发布后的 30 天内通过指定渠道进行确认。如有任何疑问或意见，请及时与我们联系。
 
-[点击签署并提交协议>>>]()
+> [点击签署并提交协议>>>](https://gitcode.com/gitcode-dev/oh-user-authrize/issues/create/choose)
 
 感谢您对鸿蒙 OpenHarmony 项目的支持与理解！
 
